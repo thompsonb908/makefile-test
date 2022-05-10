@@ -1,3 +1,8 @@
+# Example entry
+# target: prerequisites
+#	command 1
+#	command 2 ...
+
 helloworld: helloworld.o
 	cc helloworld.o -o helloworld  # Runs third
 
